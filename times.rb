@@ -3,7 +3,9 @@ def times do
 end
 end
 
-
+def times do 
+  puts "I am doing the dishes left by my former friends."
+end
 
 
 
